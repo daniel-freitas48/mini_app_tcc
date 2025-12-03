@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # Configurações iniciais da página
 # -----------------------------
 st.set_page_config(
-    page_title="Mini App de Previsão de Vendas",
+    page_title="Sistema de Suporte à Previsão de Vendas",
     layout="wide"
 )
 
