@@ -50,7 +50,7 @@ arquivo = st.sidebar.file_uploader(
 # -----------------------------
 st.markdown("<div style='height:25px'></div>", unsafe_allow_html=True)
 st.image("logo_bistro.png", width=110)
-st.title("Mini App de Previsão de Vendas")
+st.title("Sistema de Suporte à Previsão de Vendas")
 st.write("Ferramenta simples para apoiar o planejamento de compras do bistrô, utilizando o histórico de vendas de cada produto.")
 
 # -----------------------------
